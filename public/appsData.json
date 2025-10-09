@@ -6,9 +6,9 @@
     "id": 1,
     "description": "Stream millions of songs and podcasts on the go.",
     "size": 85,
-    "reviews": 24000000,
+    "reviews": 24,
     "ratingAvg": 4.6,
-    "downloads": 1000000000,
+    "downloads": 10,
     "ratings": [
       { "name": "1 star", "count": 1200000 },
       { "name": "2 star", "count": 900000 },
@@ -24,9 +24,9 @@
     "id": 2,
     "description": "Share your moments through photos, videos, and stories.",
     "size": 120,
-    "reviews": 160000000,
+    "reviews": 160,
     "ratingAvg": 4.4,
-    "downloads": 5000000000,
+    "downloads": 50,
     "ratings": [
       { "name": "1 star", "count": 8500000 },
       { "name": "2 star", "count": 6200000 },
@@ -42,9 +42,9 @@
     "id": 3,
     "description": "Fast, simple, and secure messaging and calling for free.",
     "size": 70,
-    "reviews": 180000000,
+    "reviews": 180,
     "ratingAvg": 4.7,
-    "downloads": 5000000000,
+    "downloads": 50,
     "ratings": [
       { "name": "1 star", "count": 5000000 },
       { "name": "2 star", "count": 4000000 },
@@ -60,9 +60,9 @@
     "id": 4,
     "description": "Watch, upload, and share videos with the world’s largest video platform.",
     "size": 95,
-    "reviews": 145000000,
+    "reviews": 140,
     "ratingAvg": 4.5,
-    "downloads": 10000000000,
+    "downloads": 100,
     "ratings": [
       { "name": "1 star", "count": 7000000 },
       { "name": "2 star", "count": 4000000 },
@@ -72,15 +72,15 @@
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/en/6/6e/TikTok_logo.svg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Tiktok_icon.svg/640px-Tiktok_icon.svg.png",
     "title": "TikTok",
     "companyName": "ByteDance Ltd.",
     "id": 5,
     "description": "Create and discover short videos that are personalized just for you.",
     "size": 150,
-    "reviews": 100000000,
+    "reviews": 100,
     "ratingAvg": 4.3,
-    "downloads": 3000000000,
+    "downloads": 30,
     "ratings": [
       { "name": "1 star", "count": 7000000 },
       { "name": "2 star", "count": 5000000 },
@@ -90,15 +90,15 @@
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Snapchat_logo.svg",
+    "image": "data:image/png;base64,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",
     "title": "Snapchat",
     "companyName": "Snap Inc.",
     "id": 6,
     "description": "Stay in touch with friends through snaps, chats, and stories.",
     "size": 90,
-    "reviews": 55000000,
+    "reviews": 55,
     "ratingAvg": 4.2,
-    "downloads": 2000000000,
+    "downloads": 20,
     "ratings": [
       { "name": "1 star", "count": 4000000 },
       { "name": "2 star", "count": 3500000 },
@@ -108,15 +108,15 @@
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Telegram_2019_Logo.svg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Telegram_logo_icon.svg/768px-Telegram_logo_icon.svg.png?20230705114233",
     "title": "Telegram",
     "companyName": "Telegram FZ-LLC",
     "id": 7,
     "description": "A messaging app focused on speed and security with cloud-based syncing.",
     "size": 65,
-    "reviews": 12000000,
+    "reviews": 12,
     "ratingAvg": 4.8,
-    "downloads": 1000000000,
+    "downloads": 10,
     "ratings": [
       { "name": "1 star", "count": 400000 },
       { "name": "2 star", "count": 300000 },
@@ -132,9 +132,9 @@
     "id": 8,
     "description": "Stream your favorite TV shows, movies, and Netflix originals anytime.",
     "size": 120,
-    "reviews": 55000000,
+    "reviews": 55,
     "ratingAvg": 4.5,
-    "downloads": 2000000000,
+    "downloads": 20,
     "ratings": [
       { "name": "1 star", "count": 2500000 },
       { "name": "2 star", "count": 2000000 },
@@ -144,15 +144,15 @@
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Zoom_Communications_Logo.svg",
+    "image": "https://5.imimg.com/data5/SELLER/Default/2021/9/KA/JP/ZS/1951268/zoom-3--1000x1000.png",
     "title": "Zoom Cloud Meetings",
     "companyName": "Zoom Video Communications, Inc.",
     "id": 9,
     "description": "Connect with people via video conferencing and online meetings.",
     "size": 75,
-    "reviews": 80000000,
+    "reviews": 80,
     "ratingAvg": 4.3,
-    "downloads": 1000000000,
+    "downloads": 10,
     "ratings": [
       { "name": "1 star", "count": 5000000 },
       { "name": "2 star", "count": 4000000 },
@@ -162,15 +162,15 @@
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Google_Maps_logo_2020.svg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Google_Maps_Logo_2020.svg/768px-Google_Maps_Logo_2020.svg.png?20200329030310",
     "title": "Google Maps",
     "companyName": "Google LLC",
     "id": 10,
     "description": "Find directions, explore local businesses, and discover the world with live navigation.",
     "size": 60,
-    "reviews": 100000000,
+    "reviews": 100,
     "ratingAvg": 4.7,
-    "downloads": 10000000000,
+    "downloads": 100,
     "ratings": [
       { "name": "1 star", "count": 3000000 },
       { "name": "2 star", "count": 2500000 },
@@ -180,15 +180,15 @@
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Amazon_logo.svg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/905px-Amazon_logo.svg.png?20250504041148",
     "title": "Amazon Shopping",
     "companyName": "Amazon Mobile LLC",
     "id": 11,
     "description": "Shop millions of products at great prices and fast delivery with Amazon.",
     "size": 110,
-    "reviews": 95000000,
+    "reviews": 95,
     "ratingAvg": 4.6,
-    "downloads": 1000000000,
+    "downloads": 10,
     "ratings": [
       { "name": "1 star", "count": 4000000 },
       { "name": "2 star", "count": 3500000 },
@@ -198,15 +198,15 @@
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Twitter_bird_logo_2012.svg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Twitter_%28App_Icon%29.svg/640px-Twitter_%28App_Icon%29.svg.png",
     "title": "X (Twitter)",
     "companyName": "X Corp.",
     "id": 12,
     "description": "Follow what’s happening in real-time with trending news, tweets, and live discussions.",
     "size": 100,
-    "reviews": 78000000,
+    "reviews": 78,
     "ratingAvg": 4.2,
-    "downloads": 2000000000,
+    "downloads": 20,
     "ratings": [
       { "name": "1 star", "count": 6000000 },
       { "name": "2 star", "count": 5000000 },
@@ -216,15 +216,15 @@
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/LinkedIn_logo_initials.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/LinkedIn_Logo_2013_%282%29.svg/640px-LinkedIn_Logo_2013_%282%29.svg.png",
     "title": "LinkedIn",
     "companyName": "LinkedIn Corporation",
     "id": 13,
     "description": "Grow your professional network, find jobs, and stay updated with industry insights.",
     "size": 95,
-    "reviews": 40000000,
+    "reviews": 40,
     "ratingAvg": 4.5,
-    "downloads": 1000000000,
+    "downloads": 10,
     "ratings": [
       { "name": "1 star", "count": 2000000 },
       { "name": "2 star", "count": 1500000 },
@@ -240,9 +240,9 @@
     "id": 14,
     "description": "Discover ideas and inspiration for recipes, home design, fashion, and more.",
     "size": 80,
-    "reviews": 20000000,
+    "reviews": 20,
     "ratingAvg": 4.6,
-    "downloads": 1000000000,
+    "downloads": 10,
     "ratings": [
       { "name": "1 star", "count": 900000 },
       { "name": "2 star", "count": 700000 },
@@ -252,15 +252,15 @@
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/CapCut_logo.svg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Capcut-icon.png/640px-Capcut-icon.png",
     "title": "CapCut",
     "companyName": "Bytedance Pte. Ltd.",
     "id": 15,
     "description": "Create and edit stunning videos with templates, filters, and music for free.",
     "size": 140,
-    "reviews": 30000000,
+    "reviews": 30,
     "ratingAvg": 4.5,
-    "downloads": 500000000,
+    "downloads": 5,
     "ratings": [
       { "name": "1 star", "count": 1000000 },
       { "name": "2 star", "count": 900000 },
@@ -270,15 +270,15 @@
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Candy_Crush_logo.svg",
+    "image": "https://store-images.s-microsoft.com/image/apps.54354.13510798882606697.7a42c472-75d7-487e-9538-ebb5ce1657e6.372723d8-dd1a-450a-9fed-d420e7705e4e",
     "title": "Candy Crush Saga",
     "companyName": "King",
     "id": 16,
     "description": "Match and crush candies in this fun puzzle adventure with thousands of levels.",
     "size": 200,
-    "reviews": 90000000,
+    "reviews": 90,
     "ratingAvg": 4.7,
-    "downloads": 1000000000,
+    "downloads": 10,
     "ratings": [
       { "name": "1 star", "count": 4000000 },
       { "name": "2 star", "count": 3000000 },
@@ -288,15 +288,15 @@
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Microsoft_Office_Teams_%282019%E2%80%93present%29.svg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg/1200px-Microsoft_Office_Teams_%282018%E2%80%93present%29.svg.png",
     "title": "Microsoft Teams",
     "companyName": "Microsoft Corporation",
     "id": 17,
     "description": "Collaborate and connect with your team using chat, meetings, and file sharing.",
     "size": 95,
-    "reviews": 45000000,
+    "reviews": 45,
     "ratingAvg": 4.3,
-    "downloads": 1000000000,
+    "downloads": 10,
     "ratings": [
       { "name": "1 star", "count": 3000000 },
       { "name": "2 star", "count": 2500000 },
@@ -306,15 +306,15 @@
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/PUBG_Mobile_logo.png",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/PlayerUnknown%27s_Battlegrounds_Mobile.webp/240px-PlayerUnknown%27s_Battlegrounds_Mobile.webp.png?20250728081524",
     "title": "PUBG Mobile",
     "companyName": "Tencent Games",
     "id": 18,
     "description": "Battle royale game where 100 players fight for survival to be the last one standing.",
     "size": 1200,
-    "reviews": 150000000,
+    "reviews": 150,
     "ratingAvg": 4.4,
-    "downloads": 1000000000,
+    "downloads": 10,
     "ratings": [
       { "name": "1 star", "count": 7000000 },
       { "name": "2 star", "count": 6000000 },
@@ -330,9 +330,9 @@
     "id": 19,
     "description": "A smaller, faster version of Spotify with essential features for low-end devices.",
     "size": 15,
-    "reviews": 7000000,
+    "reviews": 70,
     "ratingAvg": 4.4,
-    "downloads": 100000000,
+    "downloads": 1,
     "ratings": [
       { "name": "1 star", "count": 400000 },
       { "name": "2 star", "count": 300000 },
@@ -342,15 +342,15 @@
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Photos_icon_%282020%29.svg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-96lDFPSvKAjzgkOec1Tl1QZxpXIEWn83UQ&s",
     "title": "Google Photos",
     "companyName": "Google LLC",
     "id": 20,
     "description": "Store, organize, and share your photos and videos safely in the cloud.",
     "size": 90,
-    "reviews": 120000000,
+    "reviews": 120,
     "ratingAvg": 4.6,
-    "downloads": 5000000000,
+    "downloads": 50,
     "ratings": [
       { "name": "1 star", "count": 6000000 },
       { "name": "2 star", "count": 4000000 },

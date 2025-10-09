@@ -5,12 +5,8 @@ import useApps from "../Hooks/useApps";
 
 const Home = () => {
   const { loading, error, allApps } = useApps()
-
   console.log(allApps);
-  
   const appsData = allApps.slice(0, 12)
-  
-
   return (
     // hero
     <div>
