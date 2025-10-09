@@ -1,5 +1,27 @@
-@import "tailwindcss";
-@plugin "daisyui";
-@plugin "daisyui" {
-  themes: light --default,  dark;
+  @import "tailwindcss";
+ @plugin "daisyui";
+ @plugin "daisyui" {
+   themes: light --prefersdark, dark;
+ }
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+*{
+   font-family: "Inter", sans-serif;;
+}
+
+.linear-text {
+
+
+  /* Background gradient (linear color space) */
+  background: linear-gradient(
+    to right,
+    color(linear-srgb 0.121 0.027 0.754),
+    color(linear-srgb 0.292 0.088 0.848)
+  );
+
+  /* Fallback (for browsers that don’t support linear color) */
+  background: linear-gradient(to right, #632EE3, #9F62F2);
+
+  /* Text gradient trick */
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }

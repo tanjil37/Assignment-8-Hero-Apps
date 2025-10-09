@@ -1,0 +1,362 @@
+[
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg",
+    "title": "Spotify",
+    "companyName": "Spotify AB",
+    "id": 1,
+    "description": "Stream millions of songs and podcasts on the go.",
+    "size": 85,
+    "reviews": 24000000,
+    "ratingAvg": 4.6,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1200000 },
+      { "name": "2 star", "count": 900000 },
+      { "name": "3 star", "count": 2500000 },
+      { "name": "4 star", "count": 6000000 },
+      { "name": "5 star", "count": 13500000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png",
+    "title": "Instagram",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 2,
+    "description": "Share your moments through photos, videos, and stories.",
+    "size": 120,
+    "reviews": 160000000,
+    "ratingAvg": 4.4,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 8500000 },
+      { "name": "2 star", "count": 6200000 },
+      { "name": "3 star", "count": 15000000 },
+      { "name": "4 star", "count": 30000000 },
+      { "name": "5 star", "count": 100000000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg",
+    "title": "WhatsApp Messenger",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 3,
+    "description": "Fast, simple, and secure messaging and calling for free.",
+    "size": 70,
+    "reviews": 180000000,
+    "ratingAvg": 4.7,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 5000000 },
+      { "name": "2 star", "count": 4000000 },
+      { "name": "3 star", "count": 9000000 },
+      { "name": "4 star", "count": 25000000 },
+      { "name": "5 star", "count": 136000000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/YouTube_social_white_squircle_%282017%29.svg",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "id": 4,
+    "description": "Watch, upload, and share videos with the world’s largest video platform.",
+    "size": 95,
+    "reviews": 145000000,
+    "ratingAvg": 4.5,
+    "downloads": 10000000000,
+    "ratings": [
+      { "name": "1 star", "count": 7000000 },
+      { "name": "2 star", "count": 4000000 },
+      { "name": "3 star", "count": 12000000 },
+      { "name": "4 star", "count": 30000000 },
+      { "name": "5 star", "count": 92000000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/6/6e/TikTok_logo.svg",
+    "title": "TikTok",
+    "companyName": "ByteDance Ltd.",
+    "id": 5,
+    "description": "Create and discover short videos that are personalized just for you.",
+    "size": 150,
+    "reviews": 100000000,
+    "ratingAvg": 4.3,
+    "downloads": 3000000000,
+    "ratings": [
+      { "name": "1 star", "count": 7000000 },
+      { "name": "2 star", "count": 5000000 },
+      { "name": "3 star", "count": 13000000 },
+      { "name": "4 star", "count": 22000000 },
+      { "name": "5 star", "count": 53000000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Snapchat_logo.svg",
+    "title": "Snapchat",
+    "companyName": "Snap Inc.",
+    "id": 6,
+    "description": "Stay in touch with friends through snaps, chats, and stories.",
+    "size": 90,
+    "reviews": 55000000,
+    "ratingAvg": 4.2,
+    "downloads": 2000000000,
+    "ratings": [
+      { "name": "1 star", "count": 4000000 },
+      { "name": "2 star", "count": 3500000 },
+      { "name": "3 star", "count": 7000000 },
+      { "name": "4 star", "count": 15000000 },
+      { "name": "5 star", "count": 25500000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Telegram_2019_Logo.svg",
+    "title": "Telegram",
+    "companyName": "Telegram FZ-LLC",
+    "id": 7,
+    "description": "A messaging app focused on speed and security with cloud-based syncing.",
+    "size": 65,
+    "reviews": 12000000,
+    "ratingAvg": 4.8,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 1000000 },
+      { "name": "4 star", "count": 2000000 },
+      { "name": "5 star", "count": 8300000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg",
+    "title": "Netflix",
+    "companyName": "Netflix, Inc.",
+    "id": 8,
+    "description": "Stream your favorite TV shows, movies, and Netflix originals anytime.",
+    "size": 120,
+    "reviews": 55000000,
+    "ratingAvg": 4.5,
+    "downloads": 2000000000,
+    "ratings": [
+      { "name": "1 star", "count": 2500000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 4000000 },
+      { "name": "4 star", "count": 9000000 },
+      { "name": "5 star", "count": 37500000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Zoom_Communications_Logo.svg",
+    "title": "Zoom Cloud Meetings",
+    "companyName": "Zoom Video Communications, Inc.",
+    "id": 9,
+    "description": "Connect with people via video conferencing and online meetings.",
+    "size": 75,
+    "reviews": 80000000,
+    "ratingAvg": 4.3,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 5000000 },
+      { "name": "2 star", "count": 4000000 },
+      { "name": "3 star", "count": 9000000 },
+      { "name": "4 star", "count": 15000000 },
+      { "name": "5 star", "count": 47000000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Google_Maps_logo_2020.svg",
+    "title": "Google Maps",
+    "companyName": "Google LLC",
+    "id": 10,
+    "description": "Find directions, explore local businesses, and discover the world with live navigation.",
+    "size": 60,
+    "reviews": 100000000,
+    "ratingAvg": 4.7,
+    "downloads": 10000000000,
+    "ratings": [
+      { "name": "1 star", "count": 3000000 },
+      { "name": "2 star", "count": 2500000 },
+      { "name": "3 star", "count": 5000000 },
+      { "name": "4 star", "count": 15000000 },
+      { "name": "5 star", "count": 75000000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Amazon_logo.svg",
+    "title": "Amazon Shopping",
+    "companyName": "Amazon Mobile LLC",
+    "id": 11,
+    "description": "Shop millions of products at great prices and fast delivery with Amazon.",
+    "size": 110,
+    "reviews": 95000000,
+    "ratingAvg": 4.6,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 4000000 },
+      { "name": "2 star", "count": 3500000 },
+      { "name": "3 star", "count": 8000000 },
+      { "name": "4 star", "count": 20000000 },
+      { "name": "5 star", "count": 59500000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Twitter_bird_logo_2012.svg",
+    "title": "X (Twitter)",
+    "companyName": "X Corp.",
+    "id": 12,
+    "description": "Follow what’s happening in real-time with trending news, tweets, and live discussions.",
+    "size": 100,
+    "reviews": 78000000,
+    "ratingAvg": 4.2,
+    "downloads": 2000000000,
+    "ratings": [
+      { "name": "1 star", "count": 6000000 },
+      { "name": "2 star", "count": 5000000 },
+      { "name": "3 star", "count": 10000000 },
+      { "name": "4 star", "count": 15000000 },
+      { "name": "5 star", "count": 42000000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/LinkedIn_logo_initials.png",
+    "title": "LinkedIn",
+    "companyName": "LinkedIn Corporation",
+    "id": 13,
+    "description": "Grow your professional network, find jobs, and stay updated with industry insights.",
+    "size": 95,
+    "reviews": 40000000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 1500000 },
+      { "name": "3 star", "count": 4000000 },
+      { "name": "4 star", "count": 9000000 },
+      { "name": "5 star", "count": 23500000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Pinterest-logo.png",
+    "title": "Pinterest",
+    "companyName": "Pinterest, Inc.",
+    "id": 14,
+    "description": "Discover ideas and inspiration for recipes, home design, fashion, and more.",
+    "size": 80,
+    "reviews": 20000000,
+    "ratingAvg": 4.6,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 900000 },
+      { "name": "2 star", "count": 700000 },
+      { "name": "3 star", "count": 2000000 },
+      { "name": "4 star", "count": 5000000 },
+      { "name": "5 star", "count": 11400000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/CapCut_logo.svg",
+    "title": "CapCut",
+    "companyName": "Bytedance Pte. Ltd.",
+    "id": 15,
+    "description": "Create and edit stunning videos with templates, filters, and music for free.",
+    "size": 140,
+    "reviews": 30000000,
+    "ratingAvg": 4.5,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 1000000 },
+      { "name": "2 star", "count": 900000 },
+      { "name": "3 star", "count": 3000000 },
+      { "name": "4 star", "count": 7000000 },
+      { "name": "5 star", "count": 18100000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Candy_Crush_logo.svg",
+    "title": "Candy Crush Saga",
+    "companyName": "King",
+    "id": 16,
+    "description": "Match and crush candies in this fun puzzle adventure with thousands of levels.",
+    "size": 200,
+    "reviews": 90000000,
+    "ratingAvg": 4.7,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 4000000 },
+      { "name": "2 star", "count": 3000000 },
+      { "name": "3 star", "count": 7000000 },
+      { "name": "4 star", "count": 15000000 },
+      { "name": "5 star", "count": 61000000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Microsoft_Office_Teams_%282019%E2%80%93present%29.svg",
+    "title": "Microsoft Teams",
+    "companyName": "Microsoft Corporation",
+    "id": 17,
+    "description": "Collaborate and connect with your team using chat, meetings, and file sharing.",
+    "size": 95,
+    "reviews": 45000000,
+    "ratingAvg": 4.3,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 3000000 },
+      { "name": "2 star", "count": 2500000 },
+      { "name": "3 star", "count": 5000000 },
+      { "name": "4 star", "count": 9000000 },
+      { "name": "5 star", "count": 25500000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/PUBG_Mobile_logo.png",
+    "title": "PUBG Mobile",
+    "companyName": "Tencent Games",
+    "id": 18,
+    "description": "Battle royale game where 100 players fight for survival to be the last one standing.",
+    "size": 1200,
+    "reviews": 150000000,
+    "ratingAvg": 4.4,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 7000000 },
+      { "name": "2 star", "count": 6000000 },
+      { "name": "3 star", "count": 10000000 },
+      { "name": "4 star", "count": 20000000 },
+      { "name": "5 star", "count": 107000000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg",
+    "title": "Spotify Lite",
+    "companyName": "Spotify AB",
+    "id": 19,
+    "description": "A smaller, faster version of Spotify with essential features for low-end devices.",
+    "size": 15,
+    "reviews": 7000000,
+    "ratingAvg": 4.4,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 1500000 },
+      { "name": "5 star", "count": 4000000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Photos_icon_%282020%29.svg",
+    "title": "Google Photos",
+    "companyName": "Google LLC",
+    "id": 20,
+    "description": "Store, organize, and share your photos and videos safely in the cloud.",
+    "size": 90,
+    "reviews": 120000000,
+    "ratingAvg": 4.6,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 6000000 },
+      { "name": "2 star", "count": 4000000 },
+      { "name": "3 star", "count": 10000000 },
+      { "name": "4 star", "count": 20000000 },
+      { "name": "5 star", "count": 80000000 }
+    ]
+  }
+]
