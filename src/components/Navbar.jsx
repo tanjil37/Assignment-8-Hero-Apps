@@ -1,7 +1,7 @@
 import { Github } from "lucide-react";
 import React from "react";
 import { NavLink } from "react-router"; 
-
+import logo from "../../src/assets/logo.png";
 const Navbar = () => {
   const activeStyle =
     "text-[#632EE3] border-b-2 border-[#632EE3] font-semibold"; 
@@ -68,7 +68,7 @@ const Navbar = () => {
 
           {/* Logo */}
           <NavLink to="/" className="flex items-center gap-1 text-xl">
-            <img className="w-8 h-8" src="../../src/assets/logo.png" alt="" />
+            <img className="w-8 h-8" src={logo} alt="" />
             <span className="text-base font-bold linear-text">HERO.IO</span>
           </NavLink>
         </div>

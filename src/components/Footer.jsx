@@ -1,6 +1,7 @@
 import { Link } from "lucide-react";
 import React from "react";
 import { NavLink } from "react-router";
+import logo from "../../src/assets/logo.png";
 
 const Footer = () => {
   return (
@@ -8,7 +9,7 @@ const Footer = () => {
     <footer className="footer sm:footer-horizontal bg-[#001931] text-white p-10">
       <aside>
         <NavLink to="/" className="flex items-center gap-1 text-xl">
-          <img className="w-8 h-8" src="../../src/assets/logo.png" alt="" />
+          <img className="w-8 h-8" src={logo} alt="" />
           <span className="text-base font-bold linear-text">HERO.IO</span>
         </NavLink>
         <p>

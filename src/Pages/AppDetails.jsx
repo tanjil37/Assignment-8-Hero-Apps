@@ -119,7 +119,7 @@ const AppDetails = () => {
             >
               {isInstalled ? "Installed" : `Install Now (${size} MB)`}
             </button>
-            <ToastContainer position="top-center" autoClose={2000} />
+            <ToastContainer position="top-right" autoClose={2000} />
           </div>
         </div>
 

@@ -1,6 +1,7 @@
 import React from "react";
 import { Link } from "react-router";
-
+import playIcon from "../../src/assets/play-store.png";
+import appIcon from "../../src/assets/app-store.png";
 const Hero = () => {
   return (
     <div>
@@ -17,8 +18,8 @@ const Hero = () => {
           make an impact.
         </p>
         <div className="space-x-3 mt-4">
-          <Link to="https://play.google.com/store/games" target="_blank" className="btn"><img className="w-6 h-6" src="../../src/assets/play-store.png" alt="" /> Google Play</Link>
-          <Link to="https://www.apple.com/app-store/" target="_blank" className="btn"><img className="w-8 h-8" src="../../src/assets/app-store.png" alt="" /> App Store</Link>
+          <Link to="https://play.google.com/store/games" target="_blank" className="btn"><img className="w-6 h-6" src={playIcon} alt="" /> Google Play</Link>
+          <Link to="https://www.apple.com/app-store/" target="_blank" className="btn"><img className="w-8 h-8" src={appIcon} alt="" /> App Store</Link>
         </div>
         <img className="mx-auto mt-10" src="../../src/assets/hero.png" alt="" />
       </div>

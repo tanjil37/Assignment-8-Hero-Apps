@@ -5,9 +5,9 @@ import useApps from "../Hooks/useApps";
 import { GridLoader } from "react-spinners";
 
 const Home = () => {
-  const { loading, error, allApps } = useApps();
+  const { loading, allApps } = useApps();
 
-  const appsData = allApps.slice(0, 12);
+  const appsData = allApps.slice(0, 8);
   return (
     // hero
     <div>
