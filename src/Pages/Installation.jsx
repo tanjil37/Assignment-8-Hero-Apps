@@ -11,7 +11,7 @@ const Installation = () => {
 
   if (!install.length) 
     return (
-  <div className="text-center text-"><p>No Data Available</p>;</div>
+  <div className="text-center  container mx-auto mt-20"><p className="text-gray-600 text-3xl">No App Installed</p></div>
     )
   
 
@@ -51,7 +51,7 @@ const Installation = () => {
     <div className="bg-gray-100">
       <div className="w-11/12 min-h-screen mx-auto text-center py-10">
         <h2 className="text-4xl font-bold text-gray-700 mb-3 ">
-          Trending Apps
+          Your Install Apps
         </h2>
         <p className="text-base text-gray-400">
           Explore All Trending Apps on the Market developed by us
