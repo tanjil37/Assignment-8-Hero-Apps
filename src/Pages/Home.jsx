@@ -2,11 +2,12 @@ import { Link } from "react-router";
 import Hero from "../Components/Hero";
 import AppCard from "../Components/AppCard";
 import useApps from "../Hooks/useApps";
+import { GridLoader } from "react-spinners";
 
 const Home = () => {
-  const { loading, error, allApps } = useApps()
-  
-  const appsData = allApps.slice(0, 12)
+  const { loading, error, allApps } = useApps();
+
+  const appsData = allApps.slice(0, 12);
   return (
     // hero
     <div>
@@ -22,14 +23,22 @@ const Home = () => {
           </p>
           <div className="mt-10 ">
             {/* Card */}
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
-              {appsData.map((apps) => (
-                <AppCard key={apps.id} apps={apps}></AppCard>
-              ))}
-            </div>
+            {loading ? (
+              <div className="container">
+                <GridLoader color="#632EE3"/>
+              </div>
+            ) : (
+              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
+                {appsData.map((apps) => (
+                  <AppCard key={apps.id} apps={apps}></AppCard>
+                ))}
+              </div>
+            )}
 
             <div className="mt-8">
-              <Link to='/apps' className="btn btn-primary text-white">Show All</Link>
+              <Link to="/apps" className="btn btn-primary text-white">
+                Show All
+              </Link>
             </div>
           </div>
         </div>

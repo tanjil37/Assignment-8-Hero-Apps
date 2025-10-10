@@ -8,7 +8,6 @@ import { toast, ToastContainer } from "react-toastify";
 import useApps from "../Hooks/useApps";
 import { updateList } from "../Utils/LocalStorage";
 
-
 import {
   Bar,
   BarChart,
@@ -17,8 +16,9 @@ import {
   ResponsiveContainer,
   Tooltip,
   XAxis,
-  YAxis
+  YAxis,
 } from "recharts";
+import { GridLoader } from "react-spinners";
 
 const AppDetails = () => {
   const { id } = useParams();
@@ -34,7 +34,12 @@ const AppDetails = () => {
 
   const app = allApps.find((a) => a.id === Number(id));
 
-  if (loading) return <p>Loading.......</p>;
+  if (loading)
+    return (
+      <div className="container mx-auto text-center h-screen mt-20">
+        <GridLoader color="#632EE3" />
+      </div>
+    );
 
   const {
     title,
@@ -152,8 +157,8 @@ const AppDetails = () => {
 
         <div className="pt-7 space-x-3">
           <h3 className="text-lg font-semibold mb-4 text-[#001931]">
-              Description
-            </h3>
+            Description
+          </h3>
           <p> {description} </p>
         </div>
       </div>
